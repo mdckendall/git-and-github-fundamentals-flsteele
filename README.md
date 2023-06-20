@@ -1,4 +1,5 @@
 # :wave: The Basics of GitHub 
+# This is a test of the editin REAME
 
 ## 🤓 Course overview and learning outcomes 
 
